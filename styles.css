@@ -1,0 +1,33 @@
+body {
+	background: #BDBDBD;
+	margin: 0;
+}
+
+header{
+	background: white;
+	padding: 10px;
+}
+header h1 {
+	margin: 0;
+}
+div.post{
+	background: white; 
+	margin-bottom: 10px; 
+	display: block;
+}
+div.post img{
+	width: 100%;
+}
+div.post h2, div.post p{
+	padding: 10px; 
+	background: white;
+}
+div.container {
+	width: 600px;
+	margin: auto;
+}
+span {
+	float: right;
+}
+
+
